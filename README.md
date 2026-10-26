@@ -1,4 +1,4 @@
-# ksync
+# K_sync
 
 A Linux kernel module that implements the producer-consumer (bounded-buffer) problem using kernel threads and semaphores.
 
